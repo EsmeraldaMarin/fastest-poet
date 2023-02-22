@@ -1,0 +1,12 @@
+@import "partials/variables";
+@import "partials/base";
+
+// CONTAINERS
+
+@import "../containers/InicioCtn/inicioCtn";
+@import "../containers/TestCtn/testCtn";
+@import "../containers/ResultadosCtn/resultadosCtn";
+
+// COMPONENTS
+
+@import "../components/Navbar/navbar"
